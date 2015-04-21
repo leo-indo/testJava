@@ -8,6 +8,7 @@ public class JavaTest {
 		System.out.println("gogogogo");
 		System.out.println("gogogogo2");
 		System.out.println("gogogogo3");
+		System.out.println("gogogogo4");
 		
 	}
 
