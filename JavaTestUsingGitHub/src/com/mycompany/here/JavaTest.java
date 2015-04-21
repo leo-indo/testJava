@@ -6,7 +6,9 @@ public class JavaTest {
 		System.out.println("Hello world!!");
 		System.out.println("heyheyhey");
 		System.out.println("gogogogo");
-		
+	
+		System.out.println("JR lines.");
+		System.out.println("JR lines Tokyo sta.");
 	}
 
 }
